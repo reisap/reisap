@@ -2,7 +2,7 @@
 
 What I currently Do
 - 🔭 I’m currently working on Carii inc | Connective inc for the past couple of years.
-- 🌱 I’m currently learning go, rust, nodejs
+- 🌱 I’m currently learning rust
 - 🤔 I’m looking for help with **in building cool developer communities**
 - 💬 Ask me about **golang, nodejs, rust**
 
