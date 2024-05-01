@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Carii inc | Connective inc for the past couple of years.
 - 🌱 I’m currently learning go, rust, nodejs & java
 - 🤔 I’m looking for help with **in building cool developer communities**
-- 💬 Ask me about **golang, nodejs, design pattern, **
+- 💬 Ask me about **golang, nodejs, rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
