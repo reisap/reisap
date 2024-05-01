@@ -12,6 +12,7 @@ What I currently Do
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#) [![Rust Badge](https://img.shields.io/badge/-rust-orange?style=for-the-badge&labelColor=black&logo=rust)](#)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@reisap&theme=dracula)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisap&layout=compact&theme=dracula)]()
 
