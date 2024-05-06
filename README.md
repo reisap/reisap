@@ -14,7 +14,8 @@ What I currently Do
 
 📊 &nbsp;**This week I spent my time on**
 
-[![reisap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reisap&theme=dracula)]()
+
+[![reisap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reisap&theme=github_dark_dimmed)]()
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisap&layout=compact&theme=dracula)]() -->
 
